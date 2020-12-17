@@ -3,9 +3,9 @@
 For several years I have a hard goal. I want to become a great software engineer, so I work hard developing quality software every day. Fan of new technologies. I will not stop until overcome my goals. 
 
 
-🔭 I’m currently working at Sngular as Senior Software Engineer
+🔭 I’m currently working at @packlinkdev as Backend Software Engineer
 
-🌱 I’m currently learning Kotlin, XP, Javascript, FP and Reactive programming.
+🌱 I’m currently learning Kotlin, XP, Scala, FP and Reactive programming.
 
 👯 I’m looking to collaborate on any OSS project.
 
