@@ -13,7 +13,7 @@ For several years I have a hard goal. I want to become a great software engineer
 
 ![david-romero's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-romero&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=david-romero&theme=dracula&?layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=david-romero&theme=dracula&?layout=compact&hide=css,html)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40davromalc)](https://twitter.com/davromalc)
 
