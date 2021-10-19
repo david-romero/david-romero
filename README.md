@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For several years I have a hard goal. I want to become a great software engineer, so I work hard developing quality software every day. Fan of new technologies. I will not stop until overcome my goals. 
+For several years I have had a hard goal. I want to become a great software engineer, so I work hard to develop quality software every day. Fan of new technologies. I will not stop until accomplishing my goals. 
 
 
 🔭 I’m currently working at @packlink-dev as Backend Software Engineer
